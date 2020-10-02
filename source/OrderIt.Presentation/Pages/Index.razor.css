@@ -1,0 +1,9 @@
+h1 {
+    text-align: center;
+}
+
+.centered-content {
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+}
